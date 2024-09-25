@@ -1,0 +1,8 @@
+Nombre del archivo: ANEXOS COMPROBANTE DE EGRESO 82045 
+Primer número: 82045 
+Segundo número: 9761 
+El expediente 82045 no se encontró. Creando nuevo expediente... 
+Código: EXP202200043224 
+El PDF modificado ha sido guardado en D:\Bot Gmas\Realizados\82045-9761\EXP202200043224.pdf 
+Fecha encontrada y formateada: 30/04/2020 
+El PDF modificado ha sido guardado en D:\Bot Gmas\Realizados\82045-9761\REFERENCIA CRUZADA COMPROBANTE 82045 ELECTRONICA.pdf 

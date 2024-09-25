@@ -1,0 +1,4 @@
+Nombre del archivo hasta el guion: ANEXOS COMPROBANTE DE EGRESO 82045 
+Primer número: 82045 
+Segundo número: 9761 
+El expediente 82045 no se encontró. Creando nuevo expediente... 
